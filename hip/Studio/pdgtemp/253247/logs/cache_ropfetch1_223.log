@@ -1,0 +1,370 @@
+[19:39:35.059] Running Houdini 20.5.332 with PID 253419
+[19:39:35.060] Loading .hip file '/media/jax/dvlp/Houdini/jupiter/hip/Studio/030.hiplc'...
+[19:39:36.164] .hip file done loading
+[19:39:36.214] ROP node path '/tasks/topnet1/cache/ropnet1/geometry1'
+[19:39:36.214] ROP type name: 'geometry'
+[19:39:36.214] ROP source path: 'Internal'
+[19:39:36.214] NOTE: Render parm edits will be applied to: '/tasks/topnet1/cache'
+[19:39:36.214] Checking for output parm(s) 'sopoutput' on node '/tasks/topnet1/cache/ropnet1/geometry1'
+[19:39:36.214] Cooking node using 'hou.Rop.render'
+[19:39:36.221] PDG_START: 223;0
+[19:39:36.222] Cooking batch sub item 0
+[19:39:36.226] Checking for output parm(s) 'sopoutput' on node '/tasks/topnet1/cache/ropnet1/geometry1'
+ALF_PROGRESS 0%
+[19:39:37.941] PDG_START: 223;1
+[19:39:37.943] Cooking batch sub item 1
+ALF_PROGRESS 1%
+[19:39:38.217] PDG_RESULT: 223;0;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0001.bgeo.sc;;0
+[19:39:38.219] PDG_SUCCESS: 223;0;0
+[19:39:38.220] PDG_START: 223;2
+[19:39:38.220] Cooking batch sub item 2
+ALF_PROGRESS 3%
+[19:39:38.238] PDG_RESULT: 223;1;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0002.bgeo.sc;;0
+[19:39:38.239] PDG_SUCCESS: 223;1;0
+[19:39:38.240] PDG_START: 223;3
+[19:39:38.241] Cooking batch sub item 3
+ALF_PROGRESS 4%
+[19:39:38.261] PDG_RESULT: 223;2;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0003.bgeo.sc;;0
+[19:39:38.263] PDG_SUCCESS: 223;2;0
+[19:39:38.264] PDG_START: 223;4
+[19:39:38.264] Cooking batch sub item 4
+ALF_PROGRESS 6%
+[19:39:38.293] PDG_RESULT: 223;3;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0004.bgeo.sc;;0
+[19:39:38.294] PDG_SUCCESS: 223;3;0
+[19:39:38.295] PDG_START: 223;5
+[19:39:38.296] Cooking batch sub item 5
+ALF_PROGRESS 7%
+[19:39:38.484] PDG_RESULT: 223;4;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0005.bgeo.sc;;0
+[19:39:38.485] PDG_SUCCESS: 223;4;0
+[19:39:38.486] PDG_START: 223;6
+[19:39:38.487] Cooking batch sub item 6
+ALF_PROGRESS 8%
+[19:39:38.504] PDG_RESULT: 223;5;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0006.bgeo.sc;;0
+[19:39:38.506] PDG_SUCCESS: 223;5;0
+[19:39:38.506] PDG_START: 223;7
+[19:39:38.507] Cooking batch sub item 7
+ALF_PROGRESS 10%
+[19:39:38.527] PDG_RESULT: 223;6;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0007.bgeo.sc;;0
+[19:39:38.528] PDG_SUCCESS: 223;6;0
+[19:39:38.529] PDG_START: 223;8
+[19:39:38.530] Cooking batch sub item 8
+ALF_PROGRESS 11%
+[19:39:38.671] PDG_RESULT: 223;7;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0008.bgeo.sc;;0
+[19:39:38.672] PDG_SUCCESS: 223;7;0
+[19:39:38.673] PDG_START: 223;9
+[19:39:38.674] Cooking batch sub item 9
+ALF_PROGRESS 13%
+[19:39:38.694] PDG_RESULT: 223;8;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0009.bgeo.sc;;0
+[19:39:38.695] PDG_SUCCESS: 223;8;0
+[19:39:38.696] PDG_START: 223;10
+[19:39:38.697] Cooking batch sub item 10
+ALF_PROGRESS 14%
+[19:39:38.715] PDG_RESULT: 223;9;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0010.bgeo.sc;;0
+[19:39:38.716] PDG_SUCCESS: 223;9;0
+[19:39:38.718] PDG_START: 223;11
+[19:39:38.719] Cooking batch sub item 11
+ALF_PROGRESS 15%
+[19:39:38.861] PDG_RESULT: 223;10;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0011.bgeo.sc;;0
+[19:39:38.862] PDG_SUCCESS: 223;10;0
+[19:39:38.863] PDG_START: 223;12
+[19:39:38.864] Cooking batch sub item 12
+ALF_PROGRESS 17%
+[19:39:38.883] PDG_RESULT: 223;11;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0012.bgeo.sc;;0
+[19:39:38.885] PDG_SUCCESS: 223;11;0
+[19:39:38.886] PDG_START: 223;13
+[19:39:38.887] Cooking batch sub item 13
+ALF_PROGRESS 18%
+[19:39:38.901] PDG_RESULT: 223;12;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0013.bgeo.sc;;0
+[19:39:38.903] PDG_SUCCESS: 223;12;0
+[19:39:38.904] PDG_START: 223;14
+[19:39:38.904] Cooking batch sub item 14
+ALF_PROGRESS 20%
+[19:39:39.045] PDG_RESULT: 223;13;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0014.bgeo.sc;;0
+[19:39:39.046] PDG_SUCCESS: 223;13;0
+[19:39:39.047] PDG_START: 223;15
+[19:39:39.048] Cooking batch sub item 15
+ALF_PROGRESS 21%
+[19:39:39.074] PDG_RESULT: 223;14;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0015.bgeo.sc;;0
+[19:39:39.076] PDG_SUCCESS: 223;14;0
+[19:39:39.077] PDG_START: 223;16
+[19:39:39.078] Cooking batch sub item 16
+ALF_PROGRESS 23%
+[19:39:39.206] PDG_RESULT: 223;15;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0016.bgeo.sc;;0
+[19:39:39.208] PDG_SUCCESS: 223;15;0
+[19:39:39.209] PDG_START: 223;17
+[19:39:39.210] Cooking batch sub item 17
+ALF_PROGRESS 24%
+[19:39:39.236] PDG_RESULT: 223;16;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0017.bgeo.sc;;0
+[19:39:39.237] PDG_SUCCESS: 223;16;0
+[19:39:39.238] PDG_START: 223;18
+[19:39:39.239] Cooking batch sub item 18
+ALF_PROGRESS 25%
+[19:39:39.343] PDG_RESULT: 223;17;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0018.bgeo.sc;;0
+[19:39:39.345] PDG_SUCCESS: 223;17;0
+[19:39:39.346] PDG_START: 223;19
+[19:39:39.346] Cooking batch sub item 19
+ALF_PROGRESS 27%
+[19:39:39.364] PDG_RESULT: 223;18;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0019.bgeo.sc;;0
+[19:39:39.365] PDG_SUCCESS: 223;18;0
+[19:39:39.366] PDG_START: 223;20
+[19:39:39.367] Cooking batch sub item 20
+ALF_PROGRESS 28%
+[19:39:39.473] PDG_RESULT: 223;19;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0020.bgeo.sc;;0
+[19:39:39.474] PDG_SUCCESS: 223;19;0
+[19:39:39.475] PDG_START: 223;21
+[19:39:39.476] Cooking batch sub item 21
+ALF_PROGRESS 30%
+[19:39:39.490] PDG_RESULT: 223;20;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0021.bgeo.sc;;0
+[19:39:39.491] PDG_SUCCESS: 223;20;0
+[19:39:39.492] PDG_START: 223;22
+[19:39:39.493] Cooking batch sub item 22
+ALF_PROGRESS 31%
+[19:39:39.602] PDG_RESULT: 223;21;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0022.bgeo.sc;;0
+[19:39:39.604] PDG_SUCCESS: 223;21;0
+[19:39:39.605] PDG_START: 223;23
+[19:39:39.605] Cooking batch sub item 23
+ALF_PROGRESS 32%
+[19:39:39.671] PDG_RESULT: 223;22;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0023.bgeo.sc;;0
+[19:39:39.672] PDG_SUCCESS: 223;22;0
+[19:39:39.673] PDG_START: 223;24
+[19:39:39.674] Cooking batch sub item 24
+ALF_PROGRESS 34%
+[19:39:39.755] PDG_RESULT: 223;23;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0024.bgeo.sc;;0
+[19:39:39.756] PDG_SUCCESS: 223;23;0
+[19:39:39.757] PDG_START: 223;25
+[19:39:39.758] Cooking batch sub item 25
+ALF_PROGRESS 35%
+[19:39:39.839] PDG_RESULT: 223;24;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0025.bgeo.sc;;0
+[19:39:39.841] PDG_SUCCESS: 223;24;0
+[19:39:39.842] PDG_START: 223;26
+[19:39:39.843] Cooking batch sub item 26
+ALF_PROGRESS 37%
+[19:39:39.923] PDG_RESULT: 223;25;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0026.bgeo.sc;;0
+[19:39:39.925] PDG_SUCCESS: 223;25;0
+[19:39:39.926] PDG_START: 223;27
+[19:39:39.927] Cooking batch sub item 27
+ALF_PROGRESS 38%
+[19:39:39.989] PDG_RESULT: 223;26;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0027.bgeo.sc;;0
+[19:39:39.990] PDG_SUCCESS: 223;26;0
+[19:39:39.991] PDG_START: 223;28
+[19:39:39.991] Cooking batch sub item 28
+ALF_PROGRESS 39%
+[19:39:40.060] PDG_RESULT: 223;27;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0028.bgeo.sc;;0
+[19:39:40.061] PDG_SUCCESS: 223;27;0
+[19:39:40.062] PDG_START: 223;29
+[19:39:40.063] Cooking batch sub item 29
+ALF_PROGRESS 41%
+[19:39:40.131] PDG_RESULT: 223;28;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0029.bgeo.sc;;0
+[19:39:40.132] PDG_SUCCESS: 223;28;0
+[19:39:40.133] PDG_START: 223;30
+[19:39:40.133] Cooking batch sub item 30
+ALF_PROGRESS 42%
+[19:39:40.199] PDG_RESULT: 223;29;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0030.bgeo.sc;;0
+[19:39:40.200] PDG_SUCCESS: 223;29;0
+[19:39:40.201] PDG_START: 223;31
+[19:39:40.202] Cooking batch sub item 31
+ALF_PROGRESS 44%
+[19:39:40.268] PDG_RESULT: 223;30;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0031.bgeo.sc;;0
+[19:39:40.269] PDG_SUCCESS: 223;30;0
+[19:39:40.270] PDG_START: 223;32
+[19:39:40.271] Cooking batch sub item 32
+ALF_PROGRESS 45%
+[19:39:40.341] PDG_RESULT: 223;31;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0032.bgeo.sc;;0
+[19:39:40.342] PDG_SUCCESS: 223;31;0
+[19:39:40.342] PDG_START: 223;33
+[19:39:40.343] Cooking batch sub item 33
+ALF_PROGRESS 46%
+[19:39:40.410] PDG_RESULT: 223;32;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0033.bgeo.sc;;0
+[19:39:40.411] PDG_SUCCESS: 223;32;0
+[19:39:40.412] PDG_START: 223;34
+[19:39:40.412] Cooking batch sub item 34
+ALF_PROGRESS 48%
+[19:39:40.478] PDG_RESULT: 223;33;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0034.bgeo.sc;;0
+[19:39:40.479] PDG_SUCCESS: 223;33;0
+[19:39:40.480] PDG_START: 223;35
+[19:39:40.481] Cooking batch sub item 35
+ALF_PROGRESS 49%
+[19:39:40.549] PDG_RESULT: 223;34;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0035.bgeo.sc;;0
+[19:39:40.550] PDG_SUCCESS: 223;34;0
+[19:39:40.551] PDG_START: 223;36
+[19:39:40.552] Cooking batch sub item 36
+ALF_PROGRESS 51%
+[19:39:40.619] PDG_RESULT: 223;35;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0036.bgeo.sc;;0
+[19:39:40.621] PDG_SUCCESS: 223;35;0
+[19:39:40.621] PDG_START: 223;37
+[19:39:40.622] Cooking batch sub item 37
+ALF_PROGRESS 52%
+[19:39:40.693] PDG_RESULT: 223;36;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0037.bgeo.sc;;0
+[19:39:40.694] PDG_SUCCESS: 223;36;0
+[19:39:40.695] PDG_START: 223;38
+[19:39:40.696] Cooking batch sub item 38
+ALF_PROGRESS 54%
+[19:39:40.774] PDG_RESULT: 223;37;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0038.bgeo.sc;;0
+[19:39:40.775] PDG_SUCCESS: 223;37;0
+[19:39:40.776] PDG_START: 223;39
+[19:39:40.777] Cooking batch sub item 39
+ALF_PROGRESS 55%
+[19:39:40.862] PDG_RESULT: 223;38;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0039.bgeo.sc;;0
+[19:39:40.863] PDG_SUCCESS: 223;38;0
+[19:39:40.864] PDG_START: 223;40
+[19:39:40.865] Cooking batch sub item 40
+ALF_PROGRESS 56%
+[19:39:40.939] PDG_RESULT: 223;39;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0040.bgeo.sc;;0
+[19:39:40.940] PDG_SUCCESS: 223;39;0
+[19:39:40.940] PDG_START: 223;41
+[19:39:40.941] Cooking batch sub item 41
+ALF_PROGRESS 58%
+[19:39:41.009] PDG_RESULT: 223;40;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0041.bgeo.sc;;0
+[19:39:41.011] PDG_SUCCESS: 223;40;0
+[19:39:41.011] PDG_START: 223;42
+[19:39:41.012] Cooking batch sub item 42
+ALF_PROGRESS 59%
+[19:39:41.078] PDG_RESULT: 223;41;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0042.bgeo.sc;;0
+[19:39:41.079] PDG_SUCCESS: 223;41;0
+[19:39:41.080] PDG_START: 223;43
+[19:39:41.081] Cooking batch sub item 43
+ALF_PROGRESS 61%
+[19:39:41.148] PDG_RESULT: 223;42;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0043.bgeo.sc;;0
+[19:39:41.149] PDG_SUCCESS: 223;42;0
+[19:39:41.150] PDG_START: 223;44
+[19:39:41.151] Cooking batch sub item 44
+ALF_PROGRESS 62%
+[19:39:41.219] PDG_RESULT: 223;43;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0044.bgeo.sc;;0
+[19:39:41.221] PDG_SUCCESS: 223;43;0
+[19:39:41.221] PDG_START: 223;45
+[19:39:41.222] Cooking batch sub item 45
+ALF_PROGRESS 63%
+[19:39:41.289] PDG_RESULT: 223;44;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0045.bgeo.sc;;0
+[19:39:41.290] PDG_SUCCESS: 223;44;0
+[19:39:41.291] PDG_START: 223;46
+[19:39:41.292] Cooking batch sub item 46
+ALF_PROGRESS 65%
+[19:39:41.362] PDG_RESULT: 223;45;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0046.bgeo.sc;;0
+[19:39:41.363] PDG_SUCCESS: 223;45;0
+[19:39:41.364] PDG_START: 223;47
+[19:39:41.365] Cooking batch sub item 47
+ALF_PROGRESS 66%
+[19:39:41.432] PDG_RESULT: 223;46;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0047.bgeo.sc;;0
+[19:39:41.434] PDG_SUCCESS: 223;46;0
+[19:39:41.434] PDG_START: 223;48
+[19:39:41.435] Cooking batch sub item 48
+ALF_PROGRESS 68%
+[19:39:41.503] PDG_RESULT: 223;47;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0048.bgeo.sc;;0
+[19:39:41.504] PDG_SUCCESS: 223;47;0
+[19:39:41.505] PDG_START: 223;49
+[19:39:41.505] Cooking batch sub item 49
+ALF_PROGRESS 69%
+[19:39:41.574] PDG_RESULT: 223;48;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0049.bgeo.sc;;0
+[19:39:41.576] PDG_SUCCESS: 223;48;0
+[19:39:41.577] PDG_START: 223;50
+[19:39:41.578] Cooking batch sub item 50
+ALF_PROGRESS 70%
+[19:39:41.646] PDG_RESULT: 223;49;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0050.bgeo.sc;;0
+[19:39:41.647] PDG_SUCCESS: 223;49;0
+[19:39:41.648] PDG_START: 223;51
+[19:39:41.649] Cooking batch sub item 51
+ALF_PROGRESS 72%
+[19:39:41.718] PDG_RESULT: 223;50;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0051.bgeo.sc;;0
+[19:39:41.720] PDG_SUCCESS: 223;50;0
+[19:39:41.721] PDG_START: 223;52
+[19:39:41.722] Cooking batch sub item 52
+ALF_PROGRESS 73%
+[19:39:41.799] PDG_RESULT: 223;51;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0052.bgeo.sc;;0
+[19:39:41.801] PDG_SUCCESS: 223;51;0
+[19:39:41.802] PDG_START: 223;53
+[19:39:41.803] Cooking batch sub item 53
+ALF_PROGRESS 75%
+[19:39:41.870] PDG_RESULT: 223;52;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0053.bgeo.sc;;0
+[19:39:41.871] PDG_SUCCESS: 223;52;0
+[19:39:41.872] PDG_START: 223;54
+[19:39:41.873] Cooking batch sub item 54
+ALF_PROGRESS 76%
+[19:39:41.941] PDG_RESULT: 223;53;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0054.bgeo.sc;;0
+[19:39:41.943] PDG_SUCCESS: 223;53;0
+[19:39:41.944] PDG_START: 223;55
+[19:39:41.944] Cooking batch sub item 55
+ALF_PROGRESS 77%
+[19:39:42.011] PDG_RESULT: 223;54;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0055.bgeo.sc;;0
+[19:39:42.013] PDG_SUCCESS: 223;54;0
+[19:39:42.014] PDG_START: 223;56
+[19:39:42.015] Cooking batch sub item 56
+ALF_PROGRESS 79%
+[19:39:42.082] PDG_RESULT: 223;55;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0056.bgeo.sc;;0
+[19:39:42.083] PDG_SUCCESS: 223;55;0
+[19:39:42.084] PDG_START: 223;57
+[19:39:42.085] Cooking batch sub item 57
+ALF_PROGRESS 80%
+[19:39:42.153] PDG_RESULT: 223;56;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0057.bgeo.sc;;0
+[19:39:42.154] PDG_SUCCESS: 223;56;0
+[19:39:42.155] PDG_START: 223;58
+[19:39:42.156] Cooking batch sub item 58
+ALF_PROGRESS 82%
+[19:39:42.222] PDG_RESULT: 223;57;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0058.bgeo.sc;;0
+[19:39:42.223] PDG_SUCCESS: 223;57;0
+[19:39:42.225] PDG_START: 223;59
+[19:39:42.226] Cooking batch sub item 59
+ALF_PROGRESS 83%
+[19:39:42.297] PDG_RESULT: 223;58;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0059.bgeo.sc;;0
+[19:39:42.298] PDG_SUCCESS: 223;58;0
+[19:39:42.299] PDG_START: 223;60
+[19:39:42.300] Cooking batch sub item 60
+ALF_PROGRESS 85%
+[19:39:42.373] PDG_RESULT: 223;59;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0060.bgeo.sc;;0
+[19:39:42.374] PDG_SUCCESS: 223;59;0
+[19:39:42.376] PDG_START: 223;61
+[19:39:42.376] Cooking batch sub item 61
+ALF_PROGRESS 86%
+[19:39:42.445] PDG_RESULT: 223;60;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0061.bgeo.sc;;0
+[19:39:42.447] PDG_SUCCESS: 223;60;0
+[19:39:42.448] PDG_START: 223;62
+[19:39:42.449] Cooking batch sub item 62
+ALF_PROGRESS 87%
+[19:39:42.519] PDG_RESULT: 223;61;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0062.bgeo.sc;;0
+[19:39:42.521] PDG_SUCCESS: 223;61;0
+[19:39:42.522] PDG_START: 223;63
+[19:39:42.523] Cooking batch sub item 63
+ALF_PROGRESS 89%
+[19:39:42.595] PDG_RESULT: 223;62;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0063.bgeo.sc;;0
+[19:39:42.596] PDG_SUCCESS: 223;62;0
+[19:39:42.597] PDG_START: 223;64
+[19:39:42.598] Cooking batch sub item 64
+ALF_PROGRESS 90%
+[19:39:42.669] PDG_RESULT: 223;63;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0064.bgeo.sc;;0
+[19:39:42.670] PDG_SUCCESS: 223;63;0
+[19:39:42.671] PDG_START: 223;65
+[19:39:42.671] Cooking batch sub item 65
+ALF_PROGRESS 92%
+[19:39:42.740] PDG_RESULT: 223;64;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0065.bgeo.sc;;0
+[19:39:42.741] PDG_SUCCESS: 223;64;0
+[19:39:42.742] PDG_START: 223;66
+[19:39:42.743] Cooking batch sub item 66
+ALF_PROGRESS 93%
+[19:39:42.810] PDG_RESULT: 223;65;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0066.bgeo.sc;;0
+[19:39:42.811] PDG_SUCCESS: 223;65;0
+[19:39:42.812] PDG_START: 223;67
+[19:39:42.813] Cooking batch sub item 67
+ALF_PROGRESS 94%
+[19:39:42.879] PDG_RESULT: 223;66;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0067.bgeo.sc;;0
+[19:39:42.881] PDG_SUCCESS: 223;66;0
+[19:39:42.882] PDG_START: 223;68
+[19:39:42.883] Cooking batch sub item 68
+ALF_PROGRESS 96%
+[19:39:42.952] PDG_RESULT: 223;67;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0068.bgeo.sc;;0
+[19:39:42.954] PDG_SUCCESS: 223;67;0
+[19:39:42.954] PDG_START: 223;69
+[19:39:42.955] Cooking batch sub item 69
+ALF_PROGRESS 97%
+[19:39:43.022] PDG_RESULT: 223;68;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0069.bgeo.sc;;0
+[19:39:43.023] PDG_SUCCESS: 223;68;0
+[19:39:43.024] PDG_START: 223;70
+[19:39:43.024] Cooking batch sub item 70
+ALF_PROGRESS 99%
+[19:39:43.091] PDG_RESULT: 223;69;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0070.bgeo.sc;;0
+[19:39:43.093] PDG_SUCCESS: 223;69;0
+[19:39:43.093] PDG_START: 223;71
+[19:39:43.094] Cooking batch sub item 71
+ALF_PROGRESS 100%
+[19:39:43.165] PDG_RESULT: 223;70;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0071.bgeo.sc;;0
+[19:39:43.166] PDG_SUCCESS: 223;70;0
+[19:39:43.174] PDG_RESULT: 223;71;/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0072.bgeo.sc;;0
+[19:39:43.175] PDG_SUCCESS: 223;71;0

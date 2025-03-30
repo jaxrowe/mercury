@@ -1,0 +1,1 @@
+file '/media/jax/dvlp/Houdini/mercury/hip/Studio/hip/img/mosiac/test/0001.exr'

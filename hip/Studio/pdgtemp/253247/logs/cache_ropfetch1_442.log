@@ -1,0 +1,18 @@
+[14:11:39.731] Running Houdini 20.5.332 with PID 293984
+[14:11:39.732] Loading .hip file '/media/jax/dvlp/Houdini/jupiter/hip/Studio/032.hiplc'...
+[14:11:40.838] .hip file done loading
+[14:11:40.873] ROP node path '/tasks/topnet1/cache/ropnet1/geometry1'
+[14:11:40.873] ROP type name: 'geometry'
+[14:11:40.873] ROP source path: 'Internal'
+[14:11:40.873] NOTE: Render parm edits will be applied to: '/tasks/topnet1/cache'
+[14:11:40.873] Checking for output parm(s) 'sopoutput' on node '/tasks/topnet1/cache/ropnet1/geometry1'
+[14:11:40.874] Cooking node using 'hou.Rop.render'
+[14:11:40.881] PDG_START: 442;0
+[14:11:40.882] Cooking batch sub item 0
+[14:11:40.885] Checking for output parm(s) 'sopoutput' on node '/tasks/topnet1/cache/ropnet1/geometry1'
+[14:11:40.888] ERROR: The attempted operation failed.
+Error:       Cook error in input: /obj/geo1/OUT_TOPS
+Error:       Invalid source /obj/geo1/mercuryexport/file1.
+(Error:       Unable to read file "/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0001.bgeo.sc".
+             GeometryIO[hjson]: Unable to open file '/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0001.bgeo.sc'
+GeometryIO[hclassic]: Unable to open file '/media/jax/dvlp/Houdini/jupiter/hip/Studio/geo/cache/wedge_1/0001.bgeo.sc')..
